@@ -9,7 +9,7 @@
 * [What is hosting?](https://en.wikipedia.org/wiki/Web_hosting_service)
 ### 3.OS and General Knowledge
 * Terminal Usage
-  - [Windows Terminal: the secret to command line happiness!](https://www.youtube.com/watch?v=2dsnwlnNBzs)
+  - [Windows Terminal: the secret to command line happiness!](https://www.youtube.com/watch?v=2dsnwlnNBzs) - :heavy_check_mark: 05.06.2020
 * How OSs work in General
   - [How Operating Systems Work: 10 Concepts you Should Know as a Developer](https://medium.com/cracking-the-data-science-interview/how-operating-systems-work-10-concepts-you-should-know-as-a-developer-8d63bb38331f)
   - [Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923)
