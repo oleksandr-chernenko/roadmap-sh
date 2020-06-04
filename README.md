@@ -42,3 +42,22 @@
   - find
   - ssh
   - kill
+### 4. Learn a Language
+* C#
+### 5. Version Control Systems
+* Basic Usage of Git
+* GitHub
+### 6. Relational Databases
+* MySQL
+### 7. More about Databases
+* ORMs
+* ACID
+* Transactions
+* N+1 Problem
+* Database Normalization
+* Indexes and how they work
+* Data Replication
+* Sharding Strategies
+* CAP Theorem
+
+  
