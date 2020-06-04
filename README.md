@@ -7,7 +7,11 @@
 * [DNS and how it works?](https://www.cloudflare.com/learning/dns/what-is-dns/)
 * [What is Domain Name?](https://cs.stanford.edu/people/eroberts/courses/cs181/projects/the-domain-name-system/what.html)
 * [What is hosting?](https://en.wikipedia.org/wiki/Web_hosting_service)
-### 3.OS and General Knowledge
+### 2. Basic Frontend Knowledge
+* HTML
+* CSS
+* JavaScript
+### 3. OS and General Knowledge
 * Terminal Usage
   - [Windows Terminal: the secret to command line happiness!](https://www.youtube.com/watch?v=2dsnwlnNBzs) - :heavy_check_mark: 05.06.2020
 * How OSs work in General
