@@ -1,7 +1,7 @@
 # roadmap-sh
 ## Backend Developer
 ### 1. Internet
-* [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm) - :heavy_check_mark: 04.06.2020
+* [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm) - :heavy_check_mark: 03.06.2020
 * [What is HTTP?](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 * [Browsers and how they work?](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 * [DNS and how it works?](https://www.cloudflare.com/learning/dns/what-is-dns/)
@@ -13,7 +13,7 @@
 * JavaScript
 ### 3. OS and General Knowledge
 * Terminal Usage
-  - [Windows Terminal: the secret to command line happiness!](https://www.youtube.com/watch?v=2dsnwlnNBzs) - :heavy_check_mark: 05.06.2020
+  - [Windows Terminal: the secret to command line happiness!](https://www.youtube.com/watch?v=2dsnwlnNBzs) - :heavy_check_mark: 04.06.2020
 * How OSs work in General
   - [How Operating Systems Work: 10 Concepts you Should Know as a Developer](https://medium.com/cracking-the-data-science-interview/how-operating-systems-work-10-concepts-you-should-know-as-a-developer-8d63bb38331f)
   - [Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923)
@@ -48,7 +48,9 @@
 * Basic Usage of Git
 * GitHub
 ### 6. Relational Databases
-* MySQL
+* Why MySQL better MS SQL?
+* [MySQL](https://dev.mysql.com/doc/)
+  - [Getting Started with MySQL](https://dev.mysql.com/doc/mysql-getting-started/en/) - :heavy_check_mark: 04.06.2020
 ### 7. More about Databases
 * ORMs
 * ACID
