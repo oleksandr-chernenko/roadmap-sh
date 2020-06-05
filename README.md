@@ -51,9 +51,15 @@
 * Why MySQL better MS SQL?
 * [MySQL](https://dev.mysql.com/doc/)
   - [Getting Started with MySQL](https://dev.mysql.com/doc/mysql-getting-started/en/) - :heavy_check_mark: 04.06.2020
+* Triggers
+* Cascade
 ### 7. More about Databases
 * ORMs
 * ACID
+  - Atomicity - :heavy_check_mark: 05.06.2020
+  - Consistency - :heavy_check_mark: 05.06.2020
+  - Isolation
+  - Durability
 * Transactions
 * N+1 Problem
 * Database Normalization
