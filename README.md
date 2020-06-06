@@ -61,6 +61,9 @@
   - Isolation
   - Durability
 * Transactions
+  - write-write conflict
+  - read-write conflict
+  - write-read conflict
 * N+1 Problem
 * Database Normalization
 * Indexes and how they work
