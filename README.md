@@ -55,17 +55,18 @@
 * Cascade
 ### 7. More about Databases
 * ORMs
-* ACID
+* ACID - :heavy_check_mark: 06.06.2020
   - Atomicity - :heavy_check_mark: 05.06.2020
   - Consistency - :heavy_check_mark: 05.06.2020
   - Isolation - :heavy_check_mark: 06.06.2020
   - Durability - :heavy_check_mark: 06.06.2020
   - Write-ahead logging - :heavy_check_mark: 06.06.2020
   - Shadow paging - :heavy_check_mark: 06.06.2020
-* Transactions
+* Transactions - :heavy_check_mark: 06.06.2020
   - write-write conflict
   - read-write conflict
   - write-read conflict
+  - isolation levels
 * N+1 Problem
 * Database Normalization
 * Indexes and how they work
