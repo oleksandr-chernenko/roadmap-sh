@@ -58,8 +58,10 @@
 * ACID
   - Atomicity - :heavy_check_mark: 05.06.2020
   - Consistency - :heavy_check_mark: 05.06.2020
-  - Isolation
-  - Durability
+  - Isolation - :heavy_check_mark: 06.06.2020
+  - Durability - :heavy_check_mark: 06.06.2020
+  - Write-ahead logging - :heavy_check_mark: 06.06.2020
+  - Shadow paging - :heavy_check_mark: 06.06.2020
 * Transactions
   - write-write conflict
   - read-write conflict
