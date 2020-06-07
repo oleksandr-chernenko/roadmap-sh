@@ -67,8 +67,8 @@
   - read-write conflict
   - write-read conflict
   - isolation levels
-* N+1 Problem
-* Database Normalization
+* N+1 Problem - :heavy_check_mark: 06.06.2020
+* Database Normalization - :heavy_check_mark: 06.06.2020
 * Indexes and how they work
 * Data Replication
 * Sharding Strategies
