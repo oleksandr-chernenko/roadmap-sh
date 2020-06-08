@@ -69,7 +69,7 @@
   - isolation levels
 * N+1 Problem - :heavy_check_mark: 06.06.2020
 * Database Normalization - :heavy_check_mark: 06.06.2020
-* Indexes and how they work
+* [Indexes and how they work](https://use-the-index-luke.com/)
 * Data Replication
 * Sharding Strategies
 * CAP Theorem
