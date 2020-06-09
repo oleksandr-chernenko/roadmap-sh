@@ -70,6 +70,7 @@
 * N+1 Problem - :heavy_check_mark: 06.06.2020
 * Database Normalization - :heavy_check_mark: 06.06.2020
 * [Indexes and how they work](https://use-the-index-luke.com/)
+  - [Anatomy of an Index](https://use-the-index-luke.com/sql/anatomy) - :heavy_check_mark: 09.06.2020
 * Data Replication
 * Sharding Strategies
 * CAP Theorem
