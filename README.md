@@ -71,7 +71,7 @@
 * Database Normalization - :heavy_check_mark: 06.06.2020
 * [Indexes and how they work](https://use-the-index-luke.com/)
   - [Anatomy of an Index](https://use-the-index-luke.com/sql/anatomy) - :heavy_check_mark: 09.06.2020
-* Data Replication
+* Data Replication - :heavy_check_mark: 10.06.2020
 * Sharding Strategies
 * CAP Theorem
 
