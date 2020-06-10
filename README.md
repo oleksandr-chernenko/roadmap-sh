@@ -72,7 +72,10 @@
 * [Indexes and how they work](https://use-the-index-luke.com/)
   - [Anatomy of an Index](https://use-the-index-luke.com/sql/anatomy) - :heavy_check_mark: 09.06.2020
 * Data Replication - :heavy_check_mark: 10.06.2020
-* Sharding Strategies
+* [Sharding Strategies](https://docs.microsoft.com/en-us/azure/architecture/patterns/sharding#sharding-strategies) - :heavy_check_mark: 10.06.2020
+  - The Lookup strategy
+  - The Range strategy
+  - The Hash strategy
 * CAP Theorem
 
   
