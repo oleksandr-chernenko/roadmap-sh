@@ -76,6 +76,6 @@
   - The Lookup strategy
   - The Range strategy
   - The Hash strategy
-* CAP Theorem
+* CAP Theorem - :heavy_check_mark: 10.06.2020
 
   
