@@ -78,7 +78,7 @@
   - The Hash strategy
 * CAP Theorem - :heavy_check_mark: 10.06.2020
 ### 8. Learn about APIs
-* HATEOAS
+* HATEOAS - :heavy_check_mark: 11.06.2020
 * Open API Spec and Swagger
 * Authentication
   - Cookie Based
