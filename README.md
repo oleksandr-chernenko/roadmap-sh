@@ -77,5 +77,19 @@
   - The Range strategy
   - The Hash strategy
 * CAP Theorem - :heavy_check_mark: 10.06.2020
+### 8. Learn about APIs
+* HATEOAS
+* Open API Spec and Swagger
+* Authentication
+  - Cookie Based
+  - OAuth
+  - Basic Authenticaiton
+  - Token Authentication
+  - JWT
+  - OpenID
+  - SAML
+* REST
+* JSON APIs
+* SOAP
 
   
