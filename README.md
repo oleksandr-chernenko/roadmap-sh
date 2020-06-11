@@ -80,7 +80,7 @@
 ### 8. Learn about APIs
 * HATEOAS - :heavy_check_mark: 11.06.2020
 * Open API Spec and Swagger - :heavy_check_mark: 11.06.2020
-* Authentication
+* Authentication - :heavy_check_mark: 11.06.2020
   - Cookie Based
   - OAuth
   - Basic Authenticaiton
@@ -89,7 +89,5 @@
   - OpenID
   - SAML
 * REST
-* JSON APIs
-* SOAP
-
-  
+* JSON APIs - :heavy_check_mark: 11.06.2020
+* SOAP - :heavy_check_mark: 11.06.2020
