@@ -79,7 +79,7 @@
 * CAP Theorem - :heavy_check_mark: 10.06.2020
 ### 8. Learn about APIs
 * HATEOAS - :heavy_check_mark: 11.06.2020
-* Open API Spec and Swagger
+* Open API Spec and Swagger - :heavy_check_mark: 11.06.2020
 * Authentication
   - Cookie Based
   - OAuth
