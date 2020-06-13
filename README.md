@@ -92,7 +92,7 @@
 * JSON APIs - :heavy_check_mark: 11.06.2020
 * SOAP - :heavy_check_mark: 11.06.2020
 ### 9. Caching
-* CDN
+* CDN - :heavy_check_mark: 13.06.2020
 * Client side
 * Server side
   - Redis
