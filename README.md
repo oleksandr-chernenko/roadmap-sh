@@ -97,3 +97,14 @@
 * Server side
   - Redis
   - Memcached
+### 10. Web Security Knowledge
+* Hashing Algorithms
+  - MD5 and why not to use it
+  - SHA Family
+  - script
+  - bcrypt
+* HTTPS
+* CORS
+* Content Security Policy
+* SSL/TLS
+* OWASP Security Risks
