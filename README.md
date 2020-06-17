@@ -95,8 +95,8 @@
 * CDN - :heavy_check_mark: 13.06.2020
 * Client side
 * Server side
-  - Redis
-  - Memcached
+  - Redis - :heavy_check_mark: 17.06.2020
+  - Memcached - :heavy_check_mark: 17.06.2020
 ### 10. Web Security Knowledge
 * Hashing Algorithms
   - MD5 and why not to use it
