@@ -99,8 +99,8 @@
   - Memcached - :heavy_check_mark: 17.06.2020
 ### 10. Web Security Knowledge
 * Hashing Algorithms
-  - MD5 and why not to use it
-  - SHA Family
+  - MD5 and why not to use it - :heavy_check_mark: 20.06.2020
+  - SHA Family - :heavy_check_mark: 20.06.2020
   - script
   - bcrypt
 * HTTPS
