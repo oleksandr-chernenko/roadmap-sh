@@ -101,10 +101,10 @@
 * Hashing Algorithms
   - MD5 and why not to use it - :heavy_check_mark: 20.06.2020
   - SHA Family - :heavy_check_mark: 20.06.2020
-  - script
-  - bcrypt
-* HTTPS
-* CORS
-* Content Security Policy
-* SSL/TLS
-* OWASP Security Risks
+  - script - :heavy_check_mark: 26.06.2020
+  - bcrypt - :heavy_check_mark: 26.06.2020
+* HTTPS - :heavy_check_mark: 26.06.2020
+* CORS - :heavy_check_mark: 26.06.2020
+* Content Security Policy - :heavy_check_mark: 26.06.2020
+* SSL/TLS - :heavy_check_mark: 26.06.2020
+* OWASP Security Risks - :heavy_check_mark: 26.06.2020
