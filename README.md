@@ -108,3 +108,7 @@
 * Content Security Policy - :heavy_check_mark: 26.06.2020
 * SSL/TLS - :heavy_check_mark: 26.06.2020
 * OWASP Security Risks - :heavy_check_mark: 26.06.2020
+### 11. Testing - :heavy_check_mark: 26.06.2020
+* Integration Testing - :heavy_check_mark: 26.06.2020
+* Unit Testing - :heavy_check_mark: 26.06.2020
+* Functional Testing - :heavy_check_mark: 26.06.2020
