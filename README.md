@@ -113,3 +113,11 @@
 * Unit Testing - :heavy_check_mark: 26.06.2020
 * Functional Testing - :heavy_check_mark: 26.06.2020
 ### 12. CI / CD - :heavy_check_mark: 28.06.2020
+### 13. Design and Development Principles
+* GOF Design Patterns
+* Domain Driven Design
+* Test Driven Development
+* SOLID
+* KISS
+* YAGNI
+* DRY
