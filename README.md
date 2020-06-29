@@ -118,6 +118,6 @@
 * Domain Driven Design
 * Test Driven Development
 * SOLID
-* KISS
+* KISS - :heavy_check_mark: 29.06.2020
 * YAGNI
 * DRY
