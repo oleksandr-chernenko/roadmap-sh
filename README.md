@@ -119,5 +119,5 @@
 * Test Driven Development
 * SOLID
 * KISS - :heavy_check_mark: 29.06.2020
-* YAGNI
+* YAGNI - :heavy_check_mark: 01.07.2020
 * DRY
