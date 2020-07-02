@@ -120,4 +120,4 @@
 * SOLID
 * KISS - :heavy_check_mark: 29.06.2020
 * YAGNI - :heavy_check_mark: 01.07.2020
-* DRY
+* DRY - :heavy_check_mark: 02.07.2020
