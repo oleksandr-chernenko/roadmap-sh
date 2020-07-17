@@ -114,7 +114,7 @@
 * Functional Testing - :heavy_check_mark: 26.06.2020
 ### 12. CI / CD - :heavy_check_mark: 28.06.2020
 ### 13. Design and Development Principles
-* GOF Design Patterns
+* GOF Design Patterns - :heavy_check_mark: 17.07.2020
 * Domain Driven Design
 * Test Driven Development
 * SOLID
